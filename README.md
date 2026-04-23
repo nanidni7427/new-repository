@@ -1,5 +1,5 @@
-SentinelAI — AI-Driven Threat Detection & Simulation Engine
-**Hack Malenadu 26 | Cybersecurity Track | 36 Hours**
+# SentinelAI — AI-Driven Threat Detection & Simulation Engine
+** | Cybersecurity Track | **
 
 ---
 
